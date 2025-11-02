@@ -30,3 +30,9 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+---
+
+### 🌟 About Me
+
+Hi there! I'm **Raj Sanghani**. An emerging Data Analyst with a passion for uncovering stories within data. I am eager to apply my analytical skills and continually master new technologies to contribute to a data-driven culture.
