@@ -4,6 +4,23 @@ Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 This project showcases a full-cycle data warehousing and analytics solution — from designing and building the warehouse to delivering actionable business insights. Crafted as a portfolio piece, it reflects industry-standard best practices in data engineering and analytics.
 
 ---
+## 🏗️ Data Architecture
+
+The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into the SQL Server Database.
+2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
+
+---
+## 📖 Project Overview
+
+This project involves:
+
+1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
+2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
+3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
+4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+
 
 ## 🚀 Project Requirements
 
@@ -35,4 +52,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ### 🌟 About Me
 
-Hi there! I'm **Raj Sanghani**. An emerging Data Analyst with a passion for uncovering stories within data. I am eager to apply my analytical skills and continually master new technologies to contribute to a data-driven culture.
+Hi there! I'm **Raj Sanghani**. An emerging Data Analyst with a passion for uncovering stories within data. I am eager to apply my analytical skills and continually master new technologies to contribute to a data-driven culture.  
+
+Feel free to connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-7-sanghani/)
